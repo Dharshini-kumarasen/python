@@ -1,2 +1,2 @@
 # python
-budget app
+python projects
